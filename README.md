@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezgi</h1>
 <h3 align="center">A fullstack developer from USA</h3>
 
-- 🔭 I’m currently working on **a potfolio website**
+- 🔭 Here is my **potfolio website** https://ezgielouzeh.github.io/portfolio-website
 
 - 🌱 I’m currently learning **Selenium**
 
